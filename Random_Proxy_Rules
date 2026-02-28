@@ -1,5 +1,5 @@
 # Surge Proxy Rules 整理版本
-# 更新时间：2026年2月27日23:31:23
+# 更新时间：2026年2月28日22:54:33
 
 ## 📞 通讯与协作工具
 DOMAIN-KEYWORD,nextchat
@@ -9,6 +9,7 @@ DOMAIN,makenotion.com
 DOMAIN-KEYWORD,amplitude
 PROCESS-NAME,/Applications/Discord.app/
 DOMAIN-KEYWORD,discord
+DOMAIN,cdn.discordapp.com
 
 ## 🌐 在线服务与工具
 DOMAIN-KEYWORD,agoda
