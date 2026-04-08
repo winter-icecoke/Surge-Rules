@@ -1,5 +1,5 @@
 # Surge Proxy Rules 整理版本
-# 更新时间：2026年3月23日23:50:27
+# 更新时间：2026年4月8日23:08:39
 
 ## 📞 通讯与协作工具
 DOMAIN-KEYWORD,nextchat
@@ -35,6 +35,9 @@ PROCESS-NAME,/Applications/Blip.app/Contents/MacOS/Blip
 DOMAIN-KEYWORD,warp
 DOMAIN-KEYWORD,convex
 DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,nousresearch.com
+DOMAIN-KEYWORD,hermes-agent
 
 ### 身体数据 & 智能设备
 DOMAIN-KEYWORD,oura
