@@ -1,5 +1,5 @@
 # Surge Direct Rules整理版本
-# 更新时间：2026年1月24日20:05:25
+# 更新时间：2026年4月25日22:17:58
 
 ## 🧠 数据科学与开发工具
 DOMAIN-KEYWORD,jupyterhub
@@ -14,6 +14,14 @@ DOMAIN-KEYWORD,aaflamingo
 DOMAIN-KEYWORD,atomecorp
 DOMAIN-KEYWORD,adancergroup
 DOMAIN-KEYWORD,advai
+
+## 💬 微信 / WeChat
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,myqcloud.com
 
 ### Lark 直连增强
 DOMAIN-SUFFIX,byteoversea.com
