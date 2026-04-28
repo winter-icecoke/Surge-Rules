@@ -1,5 +1,5 @@
 # Surge Direct Rules整理版本
-# 更新时间：
+# 更新时间：2026年4月28日11:33:02
 
 DOMAIN-KEYWORD,aihubmix
 
@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,aaflamingo
 DOMAIN-KEYWORD,atomecorp
 DOMAIN-KEYWORD,adancergroup
 DOMAIN-KEYWORD,advai
+DOMAIN-KEYWORD,apaylater
 
 ## 💬 微信 / WeChat
 DOMAIN-SUFFIX,weixin.qq.com
