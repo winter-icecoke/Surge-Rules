@@ -1,5 +1,7 @@
 # Surge Direct Rules整理版本
-# 更新时间：2026年4月25日22:17:58
+# 更新时间：
+
+DOMAIN-KEYWORD,aihubmix
 
 ## 🧠 数据科学与开发工具
 DOMAIN-KEYWORD,jupyterhub
