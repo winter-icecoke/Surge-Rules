@@ -1,5 +1,5 @@
 # Surge Proxy Rules 整理版本
-# 更新时间：2026年4月19日19:19:32
+# 更新时间：2026年5月14日09:57:39
 
 ## 📞 通讯与协作工具
 DOMAIN-KEYWORD,nextchat
@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,nousresearch.com
 DOMAIN-KEYWORD,hermes-agent
 DOMAIN-SUFFIX,tampermonkey.net
+DOMAIN-SUFFIX,moengage.com
 
 ### 身体数据 & 智能设备
 DOMAIN-KEYWORD,oura
