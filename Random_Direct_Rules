@@ -1,5 +1,5 @@
 # Surge Direct Rules整理版本
-# 更新时间：2026年4月28日11:33:02
+# 更新时间：2026年5月28日10:37:43
 
 DOMAIN-KEYWORD,aihubmix
 
@@ -71,6 +71,8 @@ DOMAIN-SUFFIX,mini4k.com
 ## DOMAIN,dler.cloud
 ## DOMAIN-SUFFIX,dler.cloud
 ## DOMAIN-KEYWORD,dler
+DOMAIN,api-huacloud.dev
+DOMAIN-KEYWORD,api-huacloud
 
 ## 字幕网站
 DOMAIN-KEYWORD,zimuku
