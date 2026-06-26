@@ -1,5 +1,5 @@
 # Surge Direct Rules整理版本
-# 更新时间：2026年6月26日10:21:40
+# 更新时间：2026年6月27日00:04:20
 
 
 ## 🧠 数据科学与开发工具
@@ -59,7 +59,6 @@ PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat,DIRECT
 DOMAIN-SUFFIX,test.ustc.edu.cn
 
 ## 🌐 AI 与工具网站
-DOMAIN-SUFFIX,aihubmix.com
 DOMAIN-SUFFIX,immersivetranslate.com
 
 ## 🎬 媒体站补充
