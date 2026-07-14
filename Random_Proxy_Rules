@@ -1,8 +1,10 @@
 # Surge Proxy Rules 整理版本
-# 更新时间：2026年6月26日10:22:07
+# 更新时间：2026 年 7 月 15 日 01:20:23
 
 
 DOMAIN-KEYWORD,aihubmix
+DOMAIN-KEYWORD,docker
+
 
 ## 📞 通讯与协作工具
 DOMAIN-KEYWORD,nextchat
